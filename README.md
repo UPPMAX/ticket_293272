@@ -31,6 +31,4 @@ About the config.json file, from <https://github.com/davidemms/OrthoFinder?tab=r
 
 ## Reproduce error
 
-```
-wget https://github.com/davidemms/OrthoFinder/releases/download/2.5.5/OrthoFinder.tar.gz
-```
+./reproduce.sh
